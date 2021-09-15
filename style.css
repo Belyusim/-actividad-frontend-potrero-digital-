@@ -1,0 +1,75 @@
+h1{
+ 
+    font-family:'tahoma';Arial , Helvetica, sans-serif;
+font-size:37px;
+
+line-height:46px;
+
+
+}
+
+h2{
+font-family:'tahoma' ; helvetica,sans-serif ;
+font-size: 25px;
+
+line-height: 38px;
+
+}
+
+
+img{
+height: auto;
+width: auto;
+max-height: 100%;
+max-width: 50%;
+
+
+}
+
+p{
+font-size: 18px;
+line-height: 27px;
+
+}
+
+li{ font-family: 'verdana',geneva,sans sans-serif;
+    font-size: 18px;
+    width: 900px;
+
+
+
+
+
+}
+
+
+ol{ font-family: 'verdana',geneva,sans sans-serif;
+    font-size: 18px;
+    width: 900px;
+
+
+
+
+}
+
+#belen1 {
+    
+    color:#333;
+}
+
+
+#belen2 {
+
+color: #000000;
+
+}
+
+*{font-family: 'verdana',geneva,sans sans-serif;
+    font-size: 18px;
+    width: 900px;
+    font-family: 'verdana',geneva,sans sans-serif;
+    font-size: 18px;
+    width: 900px;
+background-color: darkorchid;
+}
+
